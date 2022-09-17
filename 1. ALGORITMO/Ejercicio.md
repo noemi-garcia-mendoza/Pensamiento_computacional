@@ -25,7 +25,7 @@
     3 Proceso 
     4 utilizar el año actual
     5 Restarle al año actual la fecha de nacimiento de la persona
-    6 Mostrar el resultado de esa resta para saber la edad de la persona
+    6 Mostrar el resultado de esa resta para saber la edad de la persona.
 
 
 
