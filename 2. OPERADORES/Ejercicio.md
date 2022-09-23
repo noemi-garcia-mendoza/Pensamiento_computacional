@@ -17,11 +17,18 @@ X = (5 + 2 * 4) – (25 +. 5) * 2
 
 X = (100/5^2 + 1) + 11 * 3
 
-      TU RESPUESTA AQUI
+   (100 / 25 + 1 ) + 11 *  3
+   
+   ( 4 + 1  )  + 11 * 3
+   
+   5 + 33
+   
+  X = 38 
+   
 
 X = ((8-6)^2*3)^3.
 
-      TU RESPUESTA AQUI
+      TU RESPUESTA AQU
 
 x = ((8+5) *4) * (10-6)/4) 
 
@@ -43,16 +50,27 @@ resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
-      TU RESPUESTA AQUI
+   ES G
 
 3^2 – (10/(8-4))+9 > 100 
 
-      TU RESPUESTA AQUI
+3^2  - (10/4))+9> 100
+
+3^2 -  (2.5) + 9 >100
+
+3^2  + 6.5 > 100
+
+9 + 6.5  > 100
+
+15.5 > 100
+
+
+    
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = Verdadero
+2) (6! =6) && (12>22)) = Falso
+3) ¬ (128<145 && 12>9) = Verdadero
+4) “Daniela”< >”DANIELA” = Falso
+5) 10*20< >210 = Verdadero
