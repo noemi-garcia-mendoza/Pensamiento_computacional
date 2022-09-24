@@ -36,6 +36,7 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
       4 asignar cal1_quimica
       5 mostrar "ingresa cal2_quimica"
       6 asignar cal2_quimica
+      
       7 mostrar " ingresa calificacion de español"
       8 asignar español
       9 mostrar "ingresa calificacion de biologia"
