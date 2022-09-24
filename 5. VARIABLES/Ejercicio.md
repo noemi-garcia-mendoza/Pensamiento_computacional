@@ -32,10 +32,10 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
       cal1_fisica (flotante), cal2_fisica (flotante),cal3_fisica (flotante),cal4_fisica (flotante),
       cal1_español (flotante),cal2_español (flotante),cal3_español (flotante),cal4_español (flotante),
       calf1_biologia (flotante),calf2_biologia (flotante),calf3_biologia (flotante),calf4_biologia (flotante)
-      3 mostrar "ingresa calificacion de quimica"
-      4 asignar quimica
-      5 mostrar "ingresa calificacion de fisica"
-      6 asignar fisica
+      3 mostrar "ingresa cal1_quimica"
+      4 asignar cal1_quimica
+      5 mostrar "ingresa cal2_quimica"
+      6 asignar cal2_quimica
       7 mostrar " ingresa calificacion de español"
       8 asignar español
       9 mostrar "ingresa calificacion de biologia"
@@ -61,9 +61,11 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
       1 Inicio 
-      2 Declarar kilometros recorridos (flotante), litros de combustible (flotante)
+      2 Declarar kilometros recorridos (flotante), litros de combustible (20.8)
       3 Mostrar "kilometros recorridos"
       4 Declarar kilometros recorridos 
+      5 kilometros recorridos * 20.8
+      6 fin
       
 
 Ahora llevalos a PSINT
