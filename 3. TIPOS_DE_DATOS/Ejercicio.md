@@ -7,7 +7,7 @@ NUMEROS ENTEROS :
 
 NUMEROS DECIMALES: 
 
- 2.5 , 45.6 , 765.34
+ .4 , .35 , .25
 
 CARACTER : 
 @ , & 
