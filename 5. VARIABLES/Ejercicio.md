@@ -76,5 +76,6 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
       5 kilometros recorridos * 20.8
       6 fin
       
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/113805099/193098177-afd8dba3-c4cd-43ee-8d2d-01b037ece3ce.png">
 
 Ahora llevalos a PSINT
