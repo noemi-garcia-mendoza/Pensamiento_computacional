@@ -3,17 +3,15 @@ Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
 
-      TU RESPUESTA AQUI
+   1 , 2 , 3, 4
 
 NUMEROS DECIMALES: 
 
-      TU RESPUESTA AQUI
+ 2.5 , 45.6 , 765.34
 
 CARACTER : 
-
-      TU RESPUESTA AQUI
+@ , & 
 
 CADENA DE CARACTERES : 
-
-      TU RESPUESTA AQUI
+    "ESCUELA DE CODIGO EN PILARES"
     
