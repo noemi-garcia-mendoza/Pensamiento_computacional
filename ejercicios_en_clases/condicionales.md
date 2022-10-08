@@ -27,3 +27,5 @@
 
 
 ![image](https://user-images.githubusercontent.com/113805099/194729026-f4829c8d-c8e7-4939-a4e5-5bd7295c4479.png)
+
+### EJERCICIO CON MUCHAS CONDICIONALES PARA LAS VOCALES
