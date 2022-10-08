@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+	Algoritmo sin_titulo
 	letra<-""
 	Escribir "Escribe la letra"
 	Leer letra
@@ -23,5 +23,7 @@ Algoritmo sin_titulo
 			Fin Si
 		Fin Si
 	Fin Si
-FinAlgoritmo
+	 FinAlgoritmo
 
+
+![image](https://user-images.githubusercontent.com/113805099/194729026-f4829c8d-c8e7-4939-a4e5-5bd7295c4479.png)
