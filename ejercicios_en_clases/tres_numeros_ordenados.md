@@ -22,7 +22,7 @@ CODIGO PARA ORDENAR 3 NUMEROS DE MAYOR A MENOR
       Fin Si
     Fin Si
 
-
-  FinAlgoritmo      
+    
+    FinAlgoritmo       
 
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/113805099/195227048-bc48e8c8-5a27-4859-bf6c-e70103aa88d8.png"> 
